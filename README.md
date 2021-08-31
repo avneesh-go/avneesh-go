@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avneesh-go
-- 👀 I’m interested in - Go|Linux|FOSS
-- 🌱 I’m currently learning GO
+- 👀 I’m interested in - |Linux|FOSS
+- 🌱 I’m currently learning Video Editing
 - 💞️ I’m looking to collaborate on Fedora
 - 📫 How to reach me 
 avneeshfedora@gmail.com
