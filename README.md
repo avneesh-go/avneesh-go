@@ -1,5 +1,5 @@
 - Hi, I’m @avneesh-go
-- I’m interested in - |Linux|FOSS
+- I’m interested in - Hackintosh
 - I’m currently learning Video Editing
 - I’m looking to collaborate on Fedora
 - How to reach me 
