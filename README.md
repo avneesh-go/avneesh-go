@@ -1,7 +1,7 @@
-- Hi, I’m @avneesh-go
+- Hi, I’m Avneesh Jagtap
 - I’m interested in - Hackintosh
 - I’m currently learning Video Editing
-- I’m looking to collaborate on Fedora
+- I’m looking to collaborate on OpenCore
 - How to reach me 
 - avneeshfedora@gmail.com
 - avneeshaws@protonmail.com
