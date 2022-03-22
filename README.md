@@ -1,8 +1,8 @@
 - Hi, I’m Avneesh Jagtap
-- I’m interested in - Hackintosh
-- I’m currently learning Video Editing
-- I’m looking to collaborate on OpenCore
-- How to reach me 
+- I’m interested in - Programming in C/C++
+- I’m currently learning C
+- I’m looking to improve my programming skills
+- How to reach me :
 - avneeshfedora@gmail.com
 - avneeshaws@protonmail.com
 <!---
