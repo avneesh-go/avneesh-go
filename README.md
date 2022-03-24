@@ -1,4 +1,4 @@
-- Hi, I’m Avneesh Jagtap
+- Hi, I’m Avneesh Jagtap.
 - I’m interested in - Programming in C/C++
 - I’m currently learning C
 - I’m looking to improve my programming skills
