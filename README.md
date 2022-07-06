@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avneesh Jagtap</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avneesh-go&label=Profile%20views&color=0e75b6&style=plastic" alt="avneesh-go" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avneesh-go" alt="avneesh-go" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avneesh-go&label=Profile%20views&color=0e75b6&style=flat" alt="avneesh-go" /> </p>
 
 - 🔭 I’m currently working on [An Intel Hackintosh](https://github.com/avneesh-go/Thinkpad-E14-Vanilla-Hackintosh)
 
@@ -27,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/avneesh jagtap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avneesh jagtap" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC7MsR1Fs89QMK3qnyf3Sn7w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avneesh jagtap" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
