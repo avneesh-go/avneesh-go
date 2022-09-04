@@ -15,13 +15,13 @@
 
 - 📝 I regularly write articles on [https://avneesh-go.github.io/](https://avneesh-go.github.io/)
 
-- 💬 Ask me about **Bash and C Programming**
+- 💬 Ask me about **Linux System Administration and C++**
 
 - 📫 How to reach me **avneeshfedora@gmail.com**
 
 - 📄 Know about my experiences [https://avneesh-go.github.io/markup/about.html](https://avneesh-go.github.io/markup/about.html)
 
-- ⚡ Fun fact **I am a Linux Expert**
+- ⚡ Fun fact **I can play Harmonuim**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
